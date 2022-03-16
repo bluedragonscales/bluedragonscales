@@ -9,40 +9,31 @@ LinkedIn = https://www.linkedin.com/in/kylakarnoski/
 
 
 ------------
-#### I have professional experience with Python full-stack automation testing:
+#### Professional experience with Python and Java full-stack automation testing:
  - Python
- - PyCharm
- - Git/GitHub/Git Bash
- - PyPi/Pip
- - pytest
- - behave
- - Selenium
- - Flask
- - psycopg binary
- - Gherkin
- - Postman
-
-------------
-#### I have professional experience with Java full-stack automation testing:
  - Java
+ - PyCharm
  - IntelliJ IDEA
  - Git/GitHub/Git Bash
+ - PyPi/Pip
  - Maven project repository
+ - pytest
  - JUnit
  - TestNG
- - Javalin
  - Mockito
+ - Flask
+ - Javalin
  - Gson
+ - psycopg binary
  - Gherkin
+ - behave
  - Cucumber
  - Selenium
- - Log4j
- - JUnit
  - Postman
 
 
 ------------
-#### I have professional experience with database and CI/CD management:
+#### Professional experience with database and CI/CD management:
  - PostgreSQL
  - DBeaver
  - AWS
@@ -50,7 +41,7 @@ LinkedIn = https://www.linkedin.com/in/kylakarnoski/
 
 
 ------------
-#### I have educational experience with front-end web development:
+#### Educational experience with front-end web development:
  - HTML5
  - CSS3
  - JavaScript (ES6 and older)
@@ -61,13 +52,4 @@ LinkedIn = https://www.linkedin.com/in/kylakarnoski/
 
 
 ------------
-#### Future learning goals:
- - Sprint Boot
- - Web application and mobile application security
- - Vue
- - React.js
- - Bootstrap
-
-
-------------
-![github-profile-pic](https://user-images.githubusercontent.com/82429567/158667823-9c9fefb0-f5bb-4d36-9c6f-4ca9611ec3af.jpg)
+![github-profile-pic](https://user-images.githubusercontent.com/82429567/158668590-86d35d1f-b2bc-4b50-b4cf-14a3b28be4b6.jpg)
