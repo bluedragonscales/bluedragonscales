@@ -10,7 +10,7 @@ LinkedIn = https://www.linkedin.com/in/kylakarnoski/
 
 ------------
 #### Professional experience with Python and Java full-stack automation testing:
- - Python
+ - Python3
  - Java
  - PyCharm
  - IntelliJ IDEA
