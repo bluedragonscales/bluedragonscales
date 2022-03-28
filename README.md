@@ -49,6 +49,8 @@ LinkedIn = https://www.linkedin.com/in/kylakarnoski/
  - Visual Studio Code
  - Atom
  - JQuery
+ - Node.js
+ - SCSS/Sass
 
 
 ------------
