@@ -51,6 +51,7 @@ LinkedIn = https://www.linkedin.com/in/kylakarnoski/
  - JQuery
  - Node.js
  - SCSS/Sass
+ - Bootstrap
 
 
 ------------
