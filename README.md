@@ -50,8 +50,9 @@ LinkedIn = https://www.linkedin.com/in/kylakarnoski/
  - Atom
  - JQuery
  - Node.js
+ - npm
  - SCSS/Sass
- - Bootstrap
+ - Bootstrap 4
 
 
 ------------
