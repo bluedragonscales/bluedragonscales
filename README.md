@@ -53,6 +53,7 @@ LinkedIn = https://www.linkedin.com/in/kylakarnoski/
  - npm
  - SCSS/Sass
  - Bootstrap 4
+ - Vue JS
 
 
 ------------
