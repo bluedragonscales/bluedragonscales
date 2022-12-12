@@ -44,7 +44,7 @@ LinkedIn = https://www.linkedin.com/in/kylakarnoski/
 #### Educational experience with front-end web development:
  - HTML5
  - CSS3
- - JavaScript (ES6 and older)
+ - JavaScript
  - Async and Fetch
  - Visual Studio Code
  - Atom
@@ -55,6 +55,7 @@ LinkedIn = https://www.linkedin.com/in/kylakarnoski/
  - Bootstrap 4
  - Vue3.js
  - Nuxt3.js
+ - Django
 
 
 ------------
