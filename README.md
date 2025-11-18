@@ -59,4 +59,4 @@ LinkedIn = https://www.linkedin.com/in/kylakarnoski/
 
 ## BADGES
 
-![CompTIA Tech+ Cert](https://www.credly.com/badges/6246b035-badb-4da5-a690-473e0bcc4061/public_url)
+![CompTIA Tech+ Cert](https://www.credly.com/badges/6246b035-badb-4da5-a690-473e0bcc4061)
