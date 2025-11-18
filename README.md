@@ -2,10 +2,6 @@
 
 Hello, I’m Kyla Karnoski and my programming education started with front-end web development at the University of Washington on 06/04/2019. My professional programming experience started with full-stack automation testing with Revature. After a time in automation testing and then full-stack application development, I am now venturing into my true passion: cyber security.
 
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6246b035-badb-4da5-a690-473e0bcc4061" data-share-badge-host="https://www.credly.com"></div>
-
-
 LinkedIn = https://www.linkedin.com/in/kylakarnoski/
 
 
@@ -60,4 +56,4 @@ LinkedIn = https://www.linkedin.com/in/kylakarnoski/
 
 
 ------------
-![github-profile-pic](https://user-images.githubusercontent.com/82429567/158668590-86d35d1f-b2bc-4b50-b4cf-14a3b28be4b6.jpg)
+![github-profile-pic](https://www.credly.com/badges/6246b035-badb-4da5-a690-473e0bcc4061/public_url)
