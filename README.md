@@ -1,9 +1,8 @@
 ## Kyla Karnoski
 
-Hello, I’m Kyla Karnoski and my programming education started with front-end web development at the University of Washington on 06/04/2019 (certificate currently in progress). My professional programming experience started with full-stack automation testing on 11/15/2021 with Revature. After a time in automation testing and then full-stack application development, I plan to venture into cyber security.
+Hello, I’m Kyla Karnoski and my programming education started with front-end web development at the University of Washington on 06/04/2019. My professional programming experience started with full-stack automation testing with Revature. After a time in automation testing and then full-stack application development, I am now venturing into my true passion: cyber security.
 
-
-Discord = dragonScales #5829
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6246b035-badb-4da5-a690-473e0bcc4061" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 LinkedIn = https://www.linkedin.com/in/kylakarnoski/
 
